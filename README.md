@@ -37,7 +37,9 @@ Use of UI element to get extract data from Web.
 
 🔸 File Management: Aautomation of file and folder operations, ensuring your documents are always organized without manual intervention. 
 
-🔸 Outlook Automation: Discover how to automate your email tasks with Outlook. 
+🔸 Outlook Automation: Discover how to automate your email tasks with Outlook.
+
+🔸 Excel Chart Creation with Co-pilot: Explore the innovative use of Co-pilot to automate the creation of Excel charts, turning data visualization into a simple, quick task.
 
 **Input File**
 
@@ -51,5 +53,28 @@ https://github.com/user-attachments/assets/38d4d97a-3e56-4f21-ac1b-317154bf8d8b
 
 ![OutPut](https://github.com/user-attachments/assets/e6c36f6f-d775-4e32-a12b-d7ba826b08b6)
 
+## Project 2: Power Automation Desktop Project
 
-🔸 Excel Chart Creation with Co-pilot: Explore the innovative use of Co-pilot to automate the creation of Excel charts, turning data visualization into a simple, quick task.
+**Input File**
+
+![Exception](https://github.com/user-attachments/assets/f0e451f1-a5fe-4227-a4c1-ff84600843f2)
+
+**Flow Processes**
+
+- Building the Basic Flow
+- A Simple Log
+- Dynamic File Naming
+- Error-Handling
+- Business Exceptions
+- System Exceptions
+
+**Flow Video**
+
+https://github.com/user-attachments/assets/1bd9ae82-0b8c-4898-9177-a4f0971edd63
+
+**OutPut File**
+
+![OutputException](https://github.com/user-attachments/assets/64d44d59-10da-43b4-a05b-89191cf25b3b)
+
+
+
