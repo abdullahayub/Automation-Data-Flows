@@ -39,4 +39,17 @@ Use of UI element to get extract data from Web.
 
 🔸 Outlook Automation: Discover how to automate your email tasks with Outlook. 
 
+**Input File**
+
+![InputFile](https://github.com/user-attachments/assets/06056c62-f261-4c33-bdb4-64a5343612ea)
+
+**Data Flow**
+
+https://github.com/user-attachments/assets/38d4d97a-3e56-4f21-ac1b-317154bf8d8b
+
+**Output File**
+
+![OutPut](https://github.com/user-attachments/assets/e6c36f6f-d775-4e32-a12b-d7ba826b08b6)
+
+
 🔸 Excel Chart Creation with Co-pilot: Explore the innovative use of Co-pilot to automate the creation of Excel charts, turning data visualization into a simple, quick task.
